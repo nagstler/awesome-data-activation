@@ -33,18 +33,25 @@ By bridging the gap between storing and using data, Data Activation helps compan
 
 ### Open Source ETL Tools
 
-- [Tool 1](link) - Brief description
-- [Tool 2](link) - Brief description
+- [Airbyte](https://airbyte.io/) - An open-source data integration platform that helps you replicate your data in your warehouses, lakes, and databases.
+- [Apache NiFi](https://nifi.apache.org/) - A powerful and scalable system to process and distribute data between disparate systems.
+- [Singer](https://www.singer.io/) - An open-source standard for writing scripts that move data between databases, web APIs, files, and more.
+- [Meltano](https://meltano.com/) - An open source ELT platform built by GitLab that enables you to integrate various data sources and destinations.
+- [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform that can be used for building real-time data pipelines and streaming apps.
 
 ### Commercial ETL Platforms
 
-- [Platform 1](link) - Brief description
-- [Platform 2](link) - Brief description
+- [Fivetran](https://www.fivetran.com/) - A cloud-based data integration platform that enables data engineers to build data pipelines to sync data from various sources to data warehouses.
+- [Stitch](https://www.stitchdata.com/) - A cloud-first, developer-focused platform for rapidly moving data from source to destination.
+- [Talend](https://www.talend.com/) - A unified platform for data integration and data integrity to solve complex data challenges at scale.
+- [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - An enterprise-grade data integration platform for complex, high-performance data management.
+- [AWS Glue](https://aws.amazon.com/glue/) - A fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analytics.
+- [Google Cloud Dataflow](https://cloud.google.com/dataflow) - A fully managed streaming analytics service that minimizes latency, processing time, and cost through autoscaling and batch processing.
+- [Microsoft Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) - A fully managed, serverless data integration solution for ingesting, preparing, and transforming data at scale.
 
 ### ETL Best Practices
 
-- Best practice 1
-- Best practice 2
+- [Tool 1](link) - Brief description
 
 ## Reverse ETL (rETL)
 
