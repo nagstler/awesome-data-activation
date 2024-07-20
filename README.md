@@ -92,18 +92,28 @@ By bridging the gap between storing and using data, Data Activation helps compan
 
 ### Cloud Data Warehouses
 
-- [Warehouse 1](link) - Brief description
-- [Warehouse 2](link) - Brief description
+- [Databricks SQL](https://databricks.com/product/databricks-sql) - A cloud data warehouse built on an open lakehouse architecture, offering high performance and seamless integration with data lakes.
+- [Snowflake](https://www.snowflake.com/) - A cloud-native data warehouse offering instant scalability, secure data sharing, and per-second pricing.
+- [Amazon Redshift](https://aws.amazon.com/redshift/) - A fully managed, petabyte-scale data warehouse service in the cloud, part of the AWS ecosystem.
+- [Google BigQuery](https://cloud.google.com/bigquery) - A serverless, highly scalable, and cost-effective multi-cloud data warehouse designed for business agility.
+- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - An integrated analytics service that brings together data integration, enterprise data warehousing, and big data analytics.
+- [Firebolt](https://www.firebolt.io/) - A cloud data warehouse architected for high performance and efficiency on large-scale data.
 
 ### Data Lakes
 
-- [Data Lake 1](link) - Brief description
-- [Data Lake 2](link) - Brief description
+- [Amazon S3](https://aws.amazon.com/s3/) - Object storage built to store and retrieve any amount of data from anywhere, commonly used as a data lake solution.
+- [Azure Data Lake Storage](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/) - A highly scalable data lake solution for big data analytics, built on Azure Blob Storage.
+- [Google Cloud Storage](https://cloud.google.com/storage) - A unified object storage for developers and enterprises, from live applications data to cloud archival.
+- [Databricks Delta Lake](https://delta.io/) - An open-source storage layer that brings reliability to data lakes, implemented by Databricks.
+- [Cloudera Data Platform](https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html) - A hybrid data platform for data engineering, streaming analytics, and data science workloads.
 
 ### Data Lakehouses
 
-- [Lakehouse 1](link) - Brief description
-- [Lakehouse 2](link) - Brief description
+- [Databricks Lakehouse Platform](https://databricks.com/product/data-lakehouse) - Combines the best elements of data lakes and data warehouses, providing a unified solution for all data workloads.
+- [AWS Lake Formation](https://aws.amazon.com/lake-formation/) - A service that makes it easy to set up, secure, and manage your data lake.
+- [Dremio](https://www.dremio.com/) - A data lakehouse platform that delivers high-performance SQL querying directly on cloud data lake storage.
+- [Starburst](https://www.starburst.io/) - A data lakehouse platform built on open source Trino, providing fast analytics across varied data sources.
+- [Oracle Autonomous Data Warehouse](https://www.oracle.com/autonomous-database/autonomous-data-warehouse/) - A cloud-native data lakehouse solution that combines elements of both data warehouses and data lakes.
 
 ## Data Integration Patterns
 
