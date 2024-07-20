@@ -57,13 +57,21 @@ By bridging the gap between storing and using data, Data Activation helps compan
 
 ### Open Source rETL Tools
 
-- [Tool 1](link) - Brief description
-- [Tool 2](link) - Brief description
+- [Grouparoo](https://www.grouparoo.com/) - An open-source framework for syncing customer data from your data warehouse to cloud-based tools.
+- [Multiwoven](https://github.com/Multiwoven/multiwoven) - An open-source Reverse ETL platform that enables real-time data synchronization between data warehouses and business tools.
+- [Airbyte](https://airbyte.io/) - While primarily known for ETL, Airbyte also supports reverse ETL workflows for certain destinations.
+- [Jitsu](https://jitsu.com/) - An open-source data integration platform that can handle both ETL and reverse ETL processes.
+- [Meltano](https://meltano.com/) - An open-source ELT platform that supports reverse ETL through its extensive plugin ecosystem.
 
 ### Commercial rETL Platforms
 
-- [Platform 1](link) - Brief description
-- [Platform 2](link) - Brief description
+- [Census](https://www.getcensus.com/) - A reverse ETL platform that syncs data from your warehouse to your business tools, enabling operational analytics.
+- [Hightouch](https://hightouch.io/) - A Reverse ETL platform that syncs data from your data warehouse to business tools without code.
+- [Polytomic](https://www.polytomic.com/) - A data activation platform that moves data from your data warehouse into your business tools.
+- [Omnata](https://omnata.com/) - A reverse ETL platform that specializes in syncing data from cloud data warehouses to Salesforce.
+- [Seekwell](https://www.seekwell.io/) - A reverse ETL tool that allows you to build data products and sync warehouse data to your tools.
+- [Rudderstack](https://rudderstack.com/) - A customer data platform that offers reverse ETL capabilities along with traditional ETL features.
+- [Segment Reverse ETL](https://segment.com/product/reverse-etl/) - Part of Segment's CDP, this feature allows you to send computed traits and audiences to downstream tools.
 
 ### rETL Best Practices
 
