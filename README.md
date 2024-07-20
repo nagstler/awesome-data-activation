@@ -8,18 +8,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 - [Introduction](#introduction)
 - [ETL (Extract, Transform, Load)](#etl-extract-transform-load)
+  - [Open Source ETL Tools](#open-source-etl-tools)
+  - [Commercial ETL Platforms](#commercial-etl-platforms)
+  - [ETL Best Practices](#etl-best-practices)
 - [Reverse ETL (rETL)](#reverse-etl-retl)
+  - [Open Source rETL Tools](#open-source-retl-tools)
+  - [Commercial rETL Platforms](#commercial-retl-platforms)
+  - [rETL Best Practices](#retl-best-practices)
 - [Data Warehouses and Lakes](#data-warehouses-and-lakes)
+  - [Cloud Data Warehouses](#cloud-data-warehouses)
+  - [Data Lakes](#data-lakes)
+  - [Data Lakehouses](#data-lakehouses)
 - [Data Integration Patterns](#data-integration-patterns)
 - [Data Governance and Quality](#data-governance-and-quality)
 - [Real-time Data Activation](#real-time-data-activation)
 - [Machine Learning for Data Activation](#machine-learning-for-data-activation)
-- [Use Cases and Case Studies](#use-cases-and-case-studies)
-- [Tutorials and Guides](#tutorials-and-guides)
-- [Books and Publications](#books-and-publications)
-- [Conferences and Events](#conferences-and-events)
-- [Community Resources](#community-resources)
-- [Related Topics](#related-topics)
+- [Resources](#resources)
+  - [Tutorials and Guides](#tutorials-and-guides)
+  - [Books and Publications](#books-and-publications)
+  - [Articles and Case Studies](#articles-and-case-studies)
+  - [Conferences and Events](#conferences-and-events)
+  - [Community Resources](#community-resources)
+  - [Related Topics](#related-topics)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -115,74 +125,51 @@ By bridging the gap between storing and using data, Data Activation helps compan
 - [ML Tool 1](link) - Brief description
 - [ML Tool 2](link) - Brief description
 
-## Use Cases and Case Studies
+## Resources
 
-### Marketing and Customer 360
-
-- [Case Study 1](link) - Brief description
-- [Case Study 2](link) - Brief description
-
-### Sales and CRM
-
-- [Case Study 1](link) - Brief description
-- [Case Study 2](link) - Brief description
-
-### Product Analytics
-
-- [Case Study 1](link) - Brief description
-- [Case Study 2](link) - Brief description
-
-### Financial Services
-
-- [Case Study 1](link) - Brief description
-- [Case Study 2](link) - Brief description
-
-## Tutorials and Guides
-
+### Tutorials and Guides
 - [Tutorial 1](link) - Brief description
 - [Tutorial 2](link) - Brief description
 
-## Books and Publications
-
+### Books and Publications
 - [Book 1](link) - Brief description
 - [Book 2](link) - Brief description
 
-## Conferences and Events
+### Articles and Case Studies
+- [Marketing and Customer 360 Case Study](link) - Brief description
+- [Sales and CRM Case Study](link) - Brief description
+- [Product Analytics Case Study](link) - Brief description
+- [Financial Services Case Study](link) - Brief description
 
+### Conferences and Events
 - [Conference 1](link) - Date, Location
 - [Conference 2](link) - Date, Location
 
-## Community Resources
+### Community Resources
 
-### Forums and Discussion Boards
-
+#### Forums and Discussion Boards
 - [Forum 1](link) - Brief description
 - [Forum 2](link) - Brief description
 
-### Slack Channels
-
+#### Slack Channels
 - [Slack Channel 1](link) - Brief description
 - [Slack Channel 2](link) - Brief description
 
-### Notable Blogs
-
+#### Notable Blogs
 - [Blog 1](link) - Brief description
 - [Blog 2](link) - Brief description
 
-## Related Topics
+### Related Topics
 
-### Data Mesh
-
+#### Data Mesh
 - [Resource 1](link) - Brief description
 - [Resource 2](link) - Brief description
 
-### DataOps
-
+#### DataOps
 - [Resource 1](link) - Brief description
 - [Resource 2](link) - Brief description
 
-### Data Fabric
-
+#### Data Fabric
 - [Resource 1](link) - Brief description
 - [Resource 2](link) - Brief description
 
