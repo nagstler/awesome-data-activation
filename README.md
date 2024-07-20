@@ -1,4 +1,4 @@
-# Awesome Data Activation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Data Activation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A curated list of awesome resources, tools, and platforms related to Data Activation, including ETL, Reverse ETL (rETL), and related technologies.
 
@@ -23,9 +23,9 @@ A curated list of awesome resources, tools, and platforms related to Data Activa
 
 ## Introduction
 
-Data Activation involves the process of transforming data into insights by transferring it from storage systems to operational tools used for business processes and decision making. It includes ETL (Extract, Transform, Load) to transfer data into repositories and Reverse ETL to synchronize data back to operational systems. This two way movement enables organizations not to analyze data but also to put insights into action in real time.
+Data Activation involves the process of transforming data into insights by transferring it from storage systems to operational tools used for business processes and decision making. It includes ETL (Extract, Transform, Load) to transfer data into repositories and Reverse ETL to synchronize data back to operational systems. This two way movement enables organizations not only to analyze data but also to put insights into action in real time.
 
-By bridging the divide between storing and using data Data Activation empowers companies to maximize the value of their data assets, across business functions.
+By bridging the gap between storing and using data, Data Activation helps companies to maximize the value of their data assets across business functions.
 
 ## ETL (Extract, Transform, Load)
 
@@ -175,4 +175,4 @@ We welcome contributions to this awesome list! Please read our [contribution gui
 
 ## License
 
-This awesome list is under the Creative Commons Zero v1.0 Universal License.
+This awesome list is under the [Creative Commons Zero v1.0 Universal License](LICENSE).
