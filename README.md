@@ -37,8 +37,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 Data Activation involves the process of transforming data into insights by transferring it from storage systems to operational tools used for business processes and decision making. It includes ETL (Extract, Transform, Load) to transfer data into repositories and Reverse ETL to synchronize data back to operational systems.
 
-By bridging the gap between storing and using data, Data Activation helps companies to maximize the value of their data assets across business functions.
-
 ## ETL (Extract, Transform, Load)
 
 ### Open Source ETL Tools
